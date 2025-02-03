@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "esimms999.github.io"
+  title: "quarto_cron"
   navbar:
     left:
       - href: index.qmd
