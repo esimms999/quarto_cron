@@ -12,5 +12,11 @@ msg <- cat("Today is ", format(today_date, "%B %-d, %Y"), ". It has been ", days
 msg <- cat("Run DateTime: ", format(Sys.time()))
 ```
 
-[Instructions I followed to setup this website: ](https://www.youtube.com/watch?v=arzBRW5XIkg)
-[To learn more about Quarto websites, visit ](https://quarto.org/docs/websites).
+Instructions I followed to setup this website:
+
+```         
+* <https://www.youtube.com/watch?v=arzBRW5XIkg>
+* [https://www.youtube.com/watch?v=5zYrgRylkH0&t=412s](https://www.youtube.com/watch?v=5zYrgRylkH0&t=412s)
+```
+
+To learn more about Quarto websites, visit <https://quarto.org/docs/websites>.
