@@ -3,7 +3,7 @@ on:
   push:
     branches: main
   schedule:
-    - cron: '50 23 * * *' # Run every day, shortly before midnight
+    - cron: '01 05 * * *' # Run every day, shortly after midnight EST
 
 name: Quarto Publish
 
