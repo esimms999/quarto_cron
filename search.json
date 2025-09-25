@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "quarto_cron",
-    "section": "",
-    "text": "Today is September 24, 2025. It has been 266 days since January 1, 2025.\n\n\nRun DateTime:  2025-09-24 05:09:49"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "Instructions I followed to setup this website:\n\nhttps://www.youtube.com/watch?v=arzBRW5XIkg\nhttps://www.youtube.com/watch?v=5zYrgRylkH0&t=412s\n\nTo learn more about Quarto websites, visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto_cron",
+    "section": "",
+    "text": "Today is September 25, 2025. It has been 267 days since January 1, 2025.\n\n\nRun DateTime:  2025-09-25 05:10:59"
   }
 ]
